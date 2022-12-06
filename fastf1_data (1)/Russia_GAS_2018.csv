@@ -1,4 +1,0 @@
-['Team'],['Driver'],['LapNumber'],['Compound'],['Stint'],['LapTime'],['TyreLife'],['FreshTyre'],['TrackStatus'],['IsAccurate']
-Toro Rosso,GAS,2,SOFT,1.0,105883000000,1.0,True,1,True
-Toro Rosso,GAS,3,SOFT,1.0,104071000000,2.0,True,1,True
-Toro Rosso,GAS,4,SOFT,1.0,135482000000,3.0,True,2,False

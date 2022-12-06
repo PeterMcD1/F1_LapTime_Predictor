@@ -1,3 +1,0 @@
-['Team'],['Driver'],['LapNumber'],['Compound'],['Stint'],['LapTime'],['TyreLife'],['FreshTyre'],['TrackStatus'],['IsAccurate']
-McLaren,ALO,2,ULTRASOFT,1,85044000000,2.0,True,1,True
-McLaren,ALO,3,ULTRASOFT,1,84197000000,3.0,True,1,True

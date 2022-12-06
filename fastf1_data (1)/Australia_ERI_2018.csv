@@ -1,6 +1,0 @@
-['Team'],['Driver'],['LapNumber'],['Compound'],['Stint'],['LapTime'],['TyreLife'],['FreshTyre'],['TrackStatus'],['IsAccurate']
-Sauber,ERI,2,SUPERSOFT,1.0,93177000000,1.0,True,1,True
-Sauber,ERI,3,SUPERSOFT,1.0,92746000000,2.0,True,1,True
-Sauber,ERI,4,SUPERSOFT,1.0,92210000000,3.0,True,1,True
-Sauber,ERI,5,SUPERSOFT,1.0,92289000000,4.0,True,2,True
-Sauber,ERI,6,SUPERSOFT,1.0,None,5.0,True,2,False

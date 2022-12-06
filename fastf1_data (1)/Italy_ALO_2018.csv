@@ -1,9 +1,0 @@
-['Team'],['Driver'],['LapNumber'],['Compound'],['Stint'],['LapTime'],['TyreLife'],['FreshTyre'],['TrackStatus'],['IsAccurate']
-McLaren,ALO,2.0,SUPERSOFT,1.0,137507000000,1.0,True,674,False
-McLaren,ALO,3.0,SUPERSOFT,1.0,121731000000,2.0,True,4,False
-McLaren,ALO,4.0,SUPERSOFT,1.0,88817000000,3.0,True,1,False
-McLaren,ALO,5.0,SUPERSOFT,1.0,87095000000,4.0,True,1,True
-McLaren,ALO,6.0,SUPERSOFT,1.0,87009000000,5.0,True,1,True
-McLaren,ALO,7.0,SUPERSOFT,1.0,88291000000,6.0,True,1,True
-McLaren,ALO,8.0,SUPERSOFT,1.0,87534000000,7.0,True,1,True
-McLaren,ALO,9.0,SUPERSOFT,1.0,105377000000,8.0,True,1,False

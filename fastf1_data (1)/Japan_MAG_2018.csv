@@ -1,8 +1,0 @@
-['Team'],['Driver'],['LapNumber'],['Compound'],['Stint'],['LapTime'],['TyreLife'],['FreshTyre'],['TrackStatus'],['IsAccurate']
-Haas F1 Team,MAG,2,SOFT,1.0,None,1.0,True,1,False
-Haas F1 Team,MAG,3,MEDIUM,2.0,None,1.0,True,4,False
-Haas F1 Team,MAG,4,MEDIUM,2.0,142671000000,2.0,True,4,False
-Haas F1 Team,MAG,5,MEDIUM,2.0,141142000000,3.0,True,4,False
-Haas F1 Team,MAG,6,MEDIUM,2.0,99908000000,4.0,True,4,False
-Haas F1 Team,MAG,7,MEDIUM,2.0,100239000000,5.0,True,4,False
-Haas F1 Team,MAG,8,MEDIUM,2.0,110631000000,6.0,True,2,False

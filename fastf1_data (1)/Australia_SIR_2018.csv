@@ -1,4 +1,0 @@
-['Team'],['Driver'],['LapNumber'],['Compound'],['Stint'],['LapTime'],['TyreLife'],['FreshTyre'],['TrackStatus'],['IsAccurate']
-Williams,SIR,2,SUPERSOFT,1.0,94137000000,1.0,True,1,True
-Williams,SIR,3,SUPERSOFT,1.0,92573000000,2.0,True,1,True
-Williams,SIR,4,SUPERSOFT,1.0,92943000000,3.0,True,1,True
