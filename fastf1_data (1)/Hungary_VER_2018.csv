@@ -1,0 +1,5 @@
+['Team'],['Driver'],['LapNumber'],['Compound'],['Stint'],['LapTime'],['TyreLife'],['FreshTyre'],['TrackStatus'],['IsAccurate']
+Red Bull Racing,VER,2.0,ULTRASOFT,1.0,84621000000,1.0,True,1,True
+Red Bull Racing,VER,3.0,ULTRASOFT,1.0,84485000000,2.0,True,1,True
+Red Bull Racing,VER,4.0,ULTRASOFT,1.0,84159000000,3.0,True,1,True
+Red Bull Racing,VER,5.0,ULTRASOFT,1.0,83985000000,4.0,True,1,True

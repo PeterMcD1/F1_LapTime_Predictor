@@ -1,0 +1,8 @@
+['Team'],['Driver'],['LapNumber'],['Compound'],['Stint'],['LapTime'],['TyreLife'],['FreshTyre'],['TrackStatus'],['IsAccurate']
+Red Bull Racing,RIC,2,SUPERSOFT,1,101683000000,5.0,False,1,True
+Red Bull Racing,RIC,3,SUPERSOFT,1,101399000000,6.0,False,2,True
+Red Bull Racing,RIC,4,SUPERSOFT,1,101553000000,7.0,False,1,True
+Red Bull Racing,RIC,5,SUPERSOFT,1,100933000000,8.0,False,1,True
+Red Bull Racing,RIC,6,SUPERSOFT,1,101244000000,9.0,False,1,True
+Red Bull Racing,RIC,7,SUPERSOFT,1,101170000000,10.0,False,1,True
+Red Bull Racing,RIC,8,SUPERSOFT,1,101214000000,11.0,False,1,True

@@ -1,0 +1,14 @@
+['Team'],['Driver'],['LapNumber'],['Compound'],['Stint'],['LapTime'],['TyreLife'],['FreshTyre'],['TrackStatus'],['IsAccurate']
+Toro Rosso,GAS,2,ULTRASOFT,1.0,93372000000,1.0,True,1,True
+Toro Rosso,GAS,3,ULTRASOFT,1.0,92861000000,2.0,True,1,True
+Toro Rosso,GAS,4,ULTRASOFT,1.0,92184000000,3.0,True,1,True
+Toro Rosso,GAS,5,ULTRASOFT,1.0,92332000000,4.0,True,2,True
+Toro Rosso,GAS,6,ULTRASOFT,1.0,98180000000,5.0,True,2,True
+Toro Rosso,GAS,7,ULTRASOFT,1.0,91537000000,6.0,True,2,True
+Toro Rosso,GAS,8,ULTRASOFT,1.0,91319000000,7.0,True,1,True
+Toro Rosso,GAS,9,ULTRASOFT,1.0,91141000000,8.0,True,2,True
+Toro Rosso,GAS,10,ULTRASOFT,1.0,91136000000,9.0,True,1,True
+Toro Rosso,GAS,11,ULTRASOFT,1.0,90937000000,10.0,True,1,True
+Toro Rosso,GAS,12,ULTRASOFT,1.0,90743000000,11.0,True,1,True
+Toro Rosso,GAS,13,ULTRASOFT,1.0,90649000000,12.0,True,1,True
+Toro Rosso,GAS,14,ULTRASOFT,1.0,None,13.0,True,1,False

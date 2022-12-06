@@ -1,0 +1,10 @@
+['Team'],['Driver'],['LapNumber'],['Compound'],['Stint'],['LapTime'],['TyreLife'],['FreshTyre'],['TrackStatus'],['IsAccurate']
+Renault,HUL,2.0,ULTRASOFT,1.0,None,4.0,False,4,False
+Renault,HUL,3.0,ULTRASOFT,1.0,None,5.0,False,4,False
+Renault,HUL,4.0,ULTRASOFT,1.0,None,6.0,False,4,False
+Renault,HUL,5.0,ULTRASOFT,1.0,None,7.0,False,4,False
+Renault,HUL,6.0,ULTRASOFT,1.0,117744000000,8.0,False,1,False
+Renault,HUL,7.0,ULTRASOFT,1.0,112856000000,9.0,False,1,True
+Renault,HUL,8.0,ULTRASOFT,1.0,109523000000,10.0,False,1,True
+Renault,HUL,9.0,ULTRASOFT,1.0,109917000000,11.0,False,1,True
+Renault,HUL,10.0,ULTRASOFT,1.0,108867000000,12.0,False,2,True

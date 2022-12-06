@@ -1,0 +1,4 @@
+['Team'],['Driver'],['LapNumber'],['Compound'],['Stint'],['LapTime'],['TyreLife'],['FreshTyre'],['TrackStatus'],['IsAccurate']
+Toro Rosso,HAR,2,HYPERSOFT,1.0,105852000000,1.0,True,1,True
+Toro Rosso,HAR,3,HYPERSOFT,1.0,108294000000,2.0,True,1,False
+Toro Rosso,HAR,4,SOFT,2.0,None,1.0,True,2,False

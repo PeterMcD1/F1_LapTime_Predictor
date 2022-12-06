@@ -1,0 +1,8 @@
+['Team'],['Driver'],['LapNumber'],['Compound'],['Stint'],['LapTime'],['TyreLife'],['FreshTyre'],['TrackStatus'],['IsAccurate']
+Ferrari,RAI,2.0,MEDIUM,2.0,144008000000,1.0,True,4,False
+Ferrari,RAI,3.0,MEDIUM,2.0,None,2.0,True,4,False
+Ferrari,RAI,4.0,MEDIUM,2.0,None,3.0,True,4,False
+Ferrari,RAI,5.0,MEDIUM,2.0,115376000000,4.0,True,1,False
+Ferrari,RAI,6.0,MEDIUM,2.0,114320000000,5.0,True,1,True
+Ferrari,RAI,7.0,MEDIUM,2.0,122327000000,6.0,True,1,False
+Ferrari,RAI,8.0,MEDIUM,3.0,None,7.0,False,1,False

@@ -1,0 +1,2 @@
+['Team'],['Driver'],['LapNumber'],['Compound'],['Stint'],['LapTime'],['TyreLife'],['FreshTyre'],['TrackStatus'],['IsAccurate']
+Haas F1 Team,GRO,2,ULTRASOFT,1,149206000000,5.0,False,2,False
